@@ -23,6 +23,9 @@ public class Publisher {
         this.address = address;
     }
 
+    public Publisher() {
+    }
+
     public long getId() {
         return id;
     }
